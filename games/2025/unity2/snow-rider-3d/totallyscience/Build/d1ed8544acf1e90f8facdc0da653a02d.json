@@ -1,0 +1,12 @@
+{
+"companyName": "Snow Rider 3D",
+"productName": "Snow Rider 3D",
+"dataUrl": "32159bf59ac9a9ff726779569afc2c6e.unityweb",
+"wasmCodeUrl": "a0a64b7e66cf264be0ccfda5275e6b2f.unityweb",
+"wasmFrameworkUrl": "a77d5ccdae43d362ff66a835a946872b.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
